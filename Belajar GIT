@@ -1,0 +1,28 @@
+Bagaimana membuat git
+Belajar Git dan Github
+Git adalah sebuah sistem.
+Sistem seperti apa?
+Sistem control versi. Artinya membuat versi-versi. Versi 1.0, versi 1.1 dst.
+Dengan Git
+1.	Kita bisa melacak perubahan pada file.
+2.	Bisa Kembali ke file sebelumnya
+3.	Bisa Kerjasama
+Seru kan…
+Uniknya lagi adalah kalau kita sudah punya file, file ini sudah jalan bagus, tapi kita mau buat file lain untuk ubah Sebagian dari file itu, kita bisa buat cabang. Cabang ini tidak akan mengganggu dari file yang ada. Kalau file cabang ini sudah bagus bisa kita buat menjadi file utama.
+Git: alatnya
+Github: tempat menyimpannya.
+Cara install git
+1.	Cek dulu apa git kita sudah terinstal. Kita gunakan terminal.
+Ketik 
+git –version
+Responnya
+git version 2.49.0
+artinya sudah terinstall
+2.	Kalau belum kita install lewat homebrew
+brew install git
+3.	Buat akun
+Kunjungi web: https://github.com
+Daftar/login (kalau yang saya surya.yohanes@gmail.com /yohanespkc (personal knowledge computer) password: )
+Klik (repository) : New 
+Nama file: Artikel Gasing
+Deskripsi: File ini berisi Kumpulan file-file 
